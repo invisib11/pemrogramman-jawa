@@ -1,0 +1,15 @@
+Penggantian Kata Kunci
+const → tetap
+let → ganti
+function → fungsi
+return → bali
+if → menawi
+else → menawi ora
+while → nalika
+for → kanggo
+console.log → log.konsol
+true → bener
+false → salah
+switch → pilih
+case → kasus
+default → standar
