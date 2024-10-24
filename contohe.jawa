@@ -1,0 +1,21 @@
+tetap x = 10;
+ganti y = 20;
+
+fungsi jumlah(a, b) {
+    bali a + b;
+}
+
+menawi x > y {
+    log.konsol("x lebih besar dari y");
+} menawi ora {
+    log.konsol("y lebih besar dari atau sama dengan x");
+}
+
+nalika x < 15 {
+    log.konsol("x kurang dari 15");
+    x = x + 1;
+}
+
+kanggo (ganti i = 0; i < 5; i = i + 1) {
+    log.konsol("Angka: " + i);
+}
